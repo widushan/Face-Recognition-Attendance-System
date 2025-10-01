@@ -22,16 +22,16 @@
 <div align="center">
 
 ### 🏠 Dashboard
-![<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0eb89bfd-c8bb-46ab-8f87-f1e3fc890da3" />](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Dashboard+View)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0eb89bfd-c8bb-46ab-8f87-f1e3fc890da3" />
 
 ### 👤 Add Student
-![<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/75bc017c-b5d9-43bb-8e07-46122293618f" />](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=Add+Student+Interface)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/75bc017c-b5d9-43bb-8e07-46122293618f" />
 
 ### 📝 Mark Attendance
-![<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6242e71d-8334-481b-9bf8-a7d8632a1f2b" />](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=Live+Attendance+Marking)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6242e71d-8334-481b-9bf8-a7d8632a1f2b" />
 
 ### 📊 Attendance Records
-![<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f18da0ef-db7d-4ca0-a0d6-1612604afaf7" />](https://via.placeholder.com/800x400/9C27B0/FFFFFF?text=Attendance+Records+with+Module+Filter)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f18da0ef-db7d-4ca0-a0d6-1612604afaf7" />
 
 </div>
 
