@@ -1,0 +1,16 @@
+python -m venv venv
+
+venv\Scripts\Activate
+
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
+
+venev -> Lib folder (replace that from this drive link)
+https://drive.google.com/drive/u/0/folders/1zkGuIGk3bp0tjNLPOxNJgdHHkrStTGgo
+
+
+
+
+
